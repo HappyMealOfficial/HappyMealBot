@@ -22,4 +22,6 @@ Both function they have:
 - Ban all member
 - Change Server Name, Icon
 -------------------------------------------------------------
+Feel free to create issues and pull request for creating new functions and fixes
+
 *This bot is created for educational purposes only!
